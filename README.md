@@ -1,8 +1,5 @@
-location_alarm
+Location Alarm
 ==============
-
-Location Alarm (Konum Alarmı) 0.1
-
 
 First check that your sdk contains Google Play Services installed or not.
 
